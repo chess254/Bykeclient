@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1061781632022",
+    "firebase_url": "https://taxee-8d2fd.firebaseio.com",
+    "project_id": "taxee-8d2fd",
+    "storage_bucket": "taxee-8d2fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061781632022:android:7bba0304b3aa21f9",
+        "android_client_info": {
+          "package_name": "com.bykeclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061781632022-hvggg8er5ojsddv81jvvcgaveth2avd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bykeclient",
+            "certificate_hash": "81970a97094e31f37c5e9c7e807dbb849d9c93ef"
+          }
+        },
+        {
+          "client_id": "1061781632022-df0p4am24ac7b6c43lvfvbstbfv092ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH3TSK08AajPfnjG7IyOQYY0V5TT_ZtI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061781632022-df0p4am24ac7b6c43lvfvbstbfv092ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061781632022:android:9df739283d367f06",
+        "android_client_info": {
+          "package_name": "com.taxee254.android.taxee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061781632022-nqqieb427mi8rjgq5ntifdigsebn2ree.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxee254.android.taxee",
+            "certificate_hash": "1d6998163bf98cbb31b304ee75b18dcf3563bd43"
+          }
+        },
+        {
+          "client_id": "1061781632022-df0p4am24ac7b6c43lvfvbstbfv092ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH3TSK08AajPfnjG7IyOQYY0V5TT_ZtI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061781632022-df0p4am24ac7b6c43lvfvbstbfv092ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061781632022:android:e515744c3facc4a0",
+        "android_client_info": {
+          "package_name": "com.taxieclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061781632022-4fk517pq03dr2u4tggovqmr0at7im5k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxieclient",
+            "certificate_hash": "1d6998163bf98cbb31b304ee75b18dcf3563bd43"
+          }
+        },
+        {
+          "client_id": "1061781632022-df0p4am24ac7b6c43lvfvbstbfv092ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH3TSK08AajPfnjG7IyOQYY0V5TT_ZtI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061781632022-df0p4am24ac7b6c43lvfvbstbfv092ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
